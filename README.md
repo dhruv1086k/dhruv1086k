@@ -60,6 +60,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/dhruv1086k/dhruv1086k/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/dhruv1086k/dhruv1086k/output/snake.svg" alt="Contribution chart" />
 
 ###
