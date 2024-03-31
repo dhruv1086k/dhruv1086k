@@ -14,6 +14,8 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/dhruv1086k/dhruv1086k/output/snake.svg" alt="Snake animation" />
+
 ###
 
 <div align="center">
