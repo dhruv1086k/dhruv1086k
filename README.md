@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋+I'm+Dhruv+Pal!;" />
 </h1>
 <div align="center">
-  <img height="100" src="https://camo.githubusercontent.com/905b96edece53a982ed9dd6870ce61ad6ee85d6598755f88a859e0322a70842f/68747470733a2f2f6d656469612e74656e6f722e636f6d2f726550446644574f33586f41414141642f6861636b696e672e676966"  />
+  <img height="100" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"  />
 </div>
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=dhruv1086k.dhruv1086k&left_color=mediumslateblue&right_color=darkslateblue"  />
